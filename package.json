@@ -1,0 +1,17 @@
+{
+  "name": "generator-hs-react",
+  "version": "1.0.0",
+  "description": "Generator for HubSpot react projects",
+  "author": "Rodolfo Carvalho",
+  "license": "MIT",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators/app"
+  ],
+  "dependencies": {
+    "object-assign": "^4.1.0",
+    "yeoman-generator": "^0.24.1"
+  }
+}
